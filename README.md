@@ -29,4 +29,4 @@ This repository contains the code for the Android development internship task. T
 - Version control using GitHub.
 
 ## Contact
-Feel free to reach out via LinkedIn: [your-profile-link]
+Feel free to reach out via LinkedIn: https://www.linkedin.com/in/akash-e552/
